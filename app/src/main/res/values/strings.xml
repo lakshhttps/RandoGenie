@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RandoGenie</string>
+    <string name="coin_toss">Coin Toss</string>
+    <string name="dice_roll">Dice Roll</string>
+    <string name="toss">Toss</string>
+    <string name="roll">Roll</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="generate">Generate</string>
+    <string name="enter_length">Enter Length</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="spin">SPIN</string>
+    <string name="enter_item">Enter item</string>
+    <string name="add_item">Add Item</string>
+    <string name="pick_winner">Pick Winner</string>
+    <string name="no_winner_yet">No winner yet</string>
+    <string name="long_click_on_item_to_delete_it">Long Click on Item to delete it</string>
+    <string name="custom_list">Custom List</string>
+    <string name="made_with_by_laksh_arora">Made with ❤️ by Laksh Arora</string>
+    <string name="randogenie">RandoGenie</string>
+    <string name="tagline">When you can’t choose,\n RandoGenie can.</string>
+</resources>
